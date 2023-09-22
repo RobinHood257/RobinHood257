@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobinHood257
-- 👀 I’m interested in bug bounty and web 3.0 as well as unity engine
-- 🌱 I’m currently learning about a lot of things related to topics mentioned above
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python programming language and it's application in various domains: Security, Networking, Automation as well as Web development.
+- 🌱 I’m currently learning about a lot of things related to domains mentioned above
+- 💞️ I’m looking forward to build and collaborate on projects to boost my knowlwdge and experience, and to help others find solutions for different problems
 - 📫 How to reach me ... 
 
 
